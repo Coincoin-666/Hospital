@@ -14,7 +14,6 @@
         width: 100vw;
         height: 100vh;
     }
-
     a {
         text-decoration: none;
     }
@@ -22,7 +21,7 @@
 
 <body>
     <header class="bg-dark p-3">
-        <h1 class="text-center text-light">† Plurima Mortis Imago †</h1>
+        <a href="../../index.php"><h1 class="text-center text-light">† Plurima Mortis Imago †</h1></a>
         <h2 class="text-center text-danger fst-italic fs-4">"Partout, une image de mort."</h2>
     </header>
     <main>
